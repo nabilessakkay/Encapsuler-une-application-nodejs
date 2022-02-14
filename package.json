@@ -1,0 +1,12 @@
+{
+  "name": "distroless-express",
+  "version": "1.0.0",
+  "description": "Distroless express node.js",
+  "dependencies": {
+    "express": "4.16.3"
+  },
+  "scripts": {
+    "start": "node hello_espress.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
